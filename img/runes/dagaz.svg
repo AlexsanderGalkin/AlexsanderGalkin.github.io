@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="12.3472mm" height="21.1666mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1235 2117"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="373" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Elder Futhark">
+		<font-face-src>
+			<font-face-name name="Elder Futhark"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="d" horiz-adv-x="1003" d="M426.835 498l-368.67 369.169 0 -738.333 368.67 369.164zm506.33 497.167l0 -994.668 -465.333 461.003 -465.832 -461.502 0 996.164 465.832 -461.498 465.333 460.5zm-423.833 -497.167l369.169 -369.164 0 738.333 -369.169 -369.169z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Elder Futhark";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:black}
+    .fnt0 {font-weight:normal;font-size:2124.8px;font-family:'Elder Futhark'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.62305 0 0 1 -386.305 1058.33)">
+   <text x="617" y="1058"  class="fil0 fnt0">d</text>
+  </g>
+ </g>
+</svg>

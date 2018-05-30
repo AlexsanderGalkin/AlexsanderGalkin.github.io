@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="12.2412mm" height="21.1666mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1224 2117"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="373" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Elder Futhark">
+		<font-face-src>
+			<font-face-name name="Elder Futhark"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="m" horiz-adv-x="629" d="M63.9995 480.999l189.498 189.335 -189.498 189.998 0 -379.333zm0 -81.5007l0 -325.33 -29.3337 -71.6682 -28.8337 71.6682c0,152.664 0.168235,305.497 0.336471,458.497 0.163562,153.001 0,306.001 -0.336471,459.002 46.3348,-47.8349 94.0015,-94.6697 143.168,-140.336 48.9985,-45.6665 97.6653,-92.3331 145.5,-139.832l282.168 280.168c0,-153.001 0,-306.001 0,-459.002 0,-153.001 0,-305.833 0,-458.497l-28.8337 -71.6682 -28.8337 71.6682 0 330.666 -224.501 225.001 -230.501 -230.337zm271.499 270.835l183.503 -183.498 0 367.664 -183.503 -184.166z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Elder Futhark";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:black}
+    .fnt0 {font-weight:normal;font-size:2139.86px;font-family:'Elder Futhark'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.999995 0 0 1 -623.228 1063.69)">
+   <text x="612" y="1058"  class="fil0 fnt0">m</text>
+  </g>
+ </g>
+</svg>
