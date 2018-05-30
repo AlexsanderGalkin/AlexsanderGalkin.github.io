@@ -31,6 +31,9 @@ body {
 	background-color: #262626;
 	color: white;
 }
+.header_topline h5 {
+	color: grey;
+}
 .header_topline a {
 	color: white;
 }
