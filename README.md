@@ -1,2 +1,2 @@
-# runes-info.github.io
+# alexander-galkin.github.io
 Scandinavian runes
