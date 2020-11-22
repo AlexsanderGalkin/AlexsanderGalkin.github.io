@@ -12,14 +12,15 @@ body {
 	background-color: white; 
 }
 .header_topline {
-	background-color: #333;
+	background-color: #66A3D2; 
 }
 .header_topline a {
 	color: white;
 }
 .header_topline h5 {
-	color: #ffffcc;
+	color: #033E6B;
 }
+
 nav {
 	padding: 0px 10px;
 	color: white;
@@ -44,11 +45,11 @@ nav a:focus {
 	outline: none;
 }
 .menu {
-	background-color: #1a1a1a;
+	background-color: #033E6B;
 	color: #fff;
 }
 .menu a {
-	color: #ffff99;
+	color: white;
 	padding: 15px;
 	display: block;
 	-webkit-transition: all .25s;
@@ -97,20 +98,20 @@ nav a:focus {
 	font-size: 25px;
 }
 h1 {
-	color: #ffff99;
+	color: #033E6B;
 	text-transform: uppercase;
 	text-align: center;
 	font-family: "RobotoCondensedLight";
 	padding: 0px 0px;
 }
 h2,h3,h4,h5,h6 {
-	color: black;
+	color: #033E6B;
 	text-transform: uppercase;
 	text-align: center;
 	font-family: "RobotoCondensedLight";
 }
 p, dl, dt, dd {
-	color: black;
+	color: #033E6B;
 	text-align: justify;
 	font-family: "RobotoCondensedLight";
 }
@@ -156,11 +157,11 @@ img {
 	font-size: 15px;
 }
 .footer {
-	background-color: #262626;
+	background-color:  #033E6B;
 }
 .copyright {
 	font-size: 15px;
-	color: #ffffcc;
+	color: white;
 	text-align: center;
 	font-family: "RobotoCondensedLight";
 	margin-top: 20px;
@@ -172,5 +173,5 @@ address {
 	margin-bottom: 20px;
 }
 address a {
-	color: #ffffcc;
+	color: white;
 }
