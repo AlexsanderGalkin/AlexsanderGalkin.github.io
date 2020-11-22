@@ -135,10 +135,10 @@ caption {
 	color: black;
 }
 
-th {
+td {
 	padding: 5px 5px;
 }
-th p {
+td p {
 	font-size: 15px;
 	text-align: center;
 	margin-top: 0px;
